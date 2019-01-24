@@ -1,0 +1,7 @@
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleData\obj\Debug\TrueMarbleData.csproj.CoreCompileInputs.cache

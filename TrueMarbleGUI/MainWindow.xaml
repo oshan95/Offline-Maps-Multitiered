@@ -1,0 +1,31 @@
+﻿<Window x:Class="TrueMarbleGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrueMarbleGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="421.453" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="btnLoad" Content="Load Tile" HorizontalAlignment="Left" Height="28" Margin="222,323,0,0" VerticalAlignment="Top" Width="93" Click="btnLoad_Click"/>
+        <Image x:Name="imgTile" Margin="191,96,146,159"/>
+        <Button x:Name="btnNorth" Content="^" HorizontalAlignment="Left" Height="25" Margin="245,29,0,0" VerticalAlignment="Top" Width="46" Click="btnNorth_Click"/>
+        <Button x:Name="btnWest" Content="&lt;" HorizontalAlignment="Left" Height="31" Margin="111,156,0,0" VerticalAlignment="Top" Width="34" Click="btnWest_Click"/>
+        <Button x:Name="btnSouth" Content="v" HorizontalAlignment="Left" Height="29" Margin="245,264,0,0" VerticalAlignment="Top" Width="46" Click="btnSouth_Click"/>
+        <Button x:Name="btnEast" Content="&gt;" HorizontalAlignment="Left" Height="31" Margin="417,156,0,0" VerticalAlignment="Top" Width="40" Click="btnEast_Click"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Height="41" Margin="20,29,0,0" VerticalAlignment="Top" Width="187" Value="-1" Maximum="6" SmallChange="1" ValueChanged="slider_ValueChanged"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="62" Margin="371,39,0,0" VerticalAlignment="Top" Width="116"/>
+        <Label x:Name="Lbl" Content="     History" HorizontalAlignment="Left" Height="37" Margin="373,2,0,0" VerticalAlignment="Top" Width="114" FontSize="18"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Height="32" Margin="382,55,0,0" VerticalAlignment="Top" Width="40" Click="btnBack_Click"/>
+        <Button x:Name="btnForward" Content="Forward" HorizontalAlignment="Left" Height="32" Margin="435,55,0,0" VerticalAlignment="Top" Width="40" Click="btnForward_Click"/>
+        <Label x:Name="Lbl_Copy" Content="     History" HorizontalAlignment="Left" Height="37" Margin="373,244,0,0" VerticalAlignment="Top" Width="114" FontSize="18"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="62" Margin="371,287,0,0" VerticalAlignment="Top" Width="116"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Height="32" Margin="382,303,0,0" VerticalAlignment="Top" Width="40" Click="btnSave_Click"/>
+        <Button x:Name="btnLoadHist" Content="Load" HorizontalAlignment="Left" Height="32" Margin="435,303,0,0" VerticalAlignment="Top" Width="40" Click="btnLoadHist_Click"/>
+        <Label x:Name="Lbl_Copy1" Content="     History" HorizontalAlignment="Left" Height="37" Margin="33,244,0,0" VerticalAlignment="Top" Width="114" FontSize="18"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="62" Margin="31,287,0,0" VerticalAlignment="Top" Width="116">
+            <Button x:Name="btnViewHistory" Content="View History" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="71" Margin="22,14,0,0" Click="btnViewHistory_Click"/>
+        </Border>
+
+    </Grid>
+</Window>

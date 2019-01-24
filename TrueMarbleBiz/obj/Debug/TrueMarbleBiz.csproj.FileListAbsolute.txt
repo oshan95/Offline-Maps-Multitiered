@@ -1,0 +1,11 @@
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe.config
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csproj.CoreCompileInputs.cache
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csproj.CopyComplete
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\oshan\OneDrive\DC New\Practicals\Practical 01\19222071 - DC Prac 01\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
